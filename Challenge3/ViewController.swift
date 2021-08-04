@@ -96,6 +96,7 @@ class ViewController: UIViewController {
         textArray.removeAll()
         currentQuestion.removeAll()
         word.text = ""
+        showText = ""
         tentativas = 0
 
 
